@@ -13,6 +13,7 @@ Retrieval-Augmented Generation (RAG)
 Model Context Protocol (MCP)
 AI Agents & Multi-Agent Systems
 Production AI Best Practices
+
 🛠️ Tech Stack
 .NET 9
 C#
@@ -20,11 +21,13 @@ Semantic Kernel
 OpenAI / Azure OpenAI
 ASP.NET Core
 Microsoft.Extensions.AI
+
 ▶️ Getting Started
 git clone https://github.com/kmrkaushal/AI-Agents-DotNET.git
 cd AI-Agents-DotNET
 dotnet restore
 dotnet run
+
 🎥 Learn Along
 
 This repository accompanies my YouTube series on building AI applications and AI Agents with .NET. Each project focuses on a specific concept, making it easy to learn step by step.
